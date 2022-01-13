@@ -1,0 +1,30 @@
+.container {
+  
+}
+
+.container .lista-text {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  width: 100%;
+}
+
+.container .jumbotron {
+  border: 3px solid rgba(44, 44, 44, 0.5);
+ 
+}
+
+.container .jumbotron .nome-text {
+  font-size: 25px;
+  color: black;
+}
+
+.container .jumbotron .categoria-text {
+  font-size: 25px;
+  color: black;
+}
+
+.container .jumbotron .ano-text {
+  font-size: 25px;
+  color: black;
+}
+
